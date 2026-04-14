@@ -1,0 +1,15 @@
+ITC (Information Technology Club) is a student club at University of Blida 1.
+
+Mission:
+- Promote AI and programming
+- Organize workshops and hackathons
+
+Events:
+- AI Bootcamp 2024: introduction to machine learning
+- Flutter Workshop: mobile app development
+- HackWave ITC : 48-hour competition
+
+Activities:
+- Weekly coding sessions
+- Kaggle competitions
+
